@@ -1,10 +1,1 @@
-# A Team
-/service_A/develop/  @GogoGaryHsu
-/service_A/staging/  @GogoGaryHsu
-
-## B Team
-/service_B/develop/  @GogoGaryHsu
-/service_B/staging/  @GogoGaryHsu
-
-## SRE Team
-**/production/ @Milesfeng
+test
